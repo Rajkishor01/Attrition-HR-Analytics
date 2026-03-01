@@ -35,7 +35,7 @@ Also includes:
 - **Area Chart** — Attrition trend over time
 - **Slicers** — Interactive filters for Job Role and other dimensions
 
-![Page1](Screenshot 2025-07-30 201248.png)
+![Page1](page1.png)
 ---
 
 ### Page 2 — Attrition by Demographics
@@ -48,6 +48,7 @@ Breakdown of attrition across various groups.
 | 👩‍💼👨‍💼 Attrition by Age Group | Age segments most affected by attrition |
 | 🚺🚹 Attrition by Gender | Gender-based attrition comparison |
 
+![Page2](page2.png)
 ---
 
 ### Page 3 — Attrition Deep Dive
@@ -59,6 +60,7 @@ Deeper analysis into specific behavioral and career factors.
 | 🎓 Attrition by Education Field | Impact of educational background on attrition |
 | 🕒 Attrition by Over Time | Whether overtime work leads to higher attrition |
 
+![Page3](page3.png)
 ---
 
 ## 🗂️ Dataset Fields Used
