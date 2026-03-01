@@ -35,6 +35,7 @@ Also includes:
 - **Area Chart** — Attrition trend over time
 - **Slicers** — Interactive filters for Job Role and other dimensions
 
+![Page1](Screenshot 2025-07-30 201248.png)
 ---
 
 ### Page 2 — Attrition by Demographics
